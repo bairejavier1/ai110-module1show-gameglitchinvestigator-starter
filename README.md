@@ -65,4 +65,4 @@ Score started at 0 and the win bonus inflated it well above 100, making the prog
 ## 🚀 Stretch Features
 
 - [x] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
-![game demo stretch feature](ai110-module1show-gameglitchinvestigator-starter/images/game_demo_stretch_feature.png)
+![game demo stretch feature](images/game_demo_stretch_feature.png)
